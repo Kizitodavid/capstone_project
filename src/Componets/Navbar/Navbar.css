@@ -1,0 +1,105 @@
+.navbar{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
+.top{
+    padding: 15px 20px 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background:olive;
+    height: 10vh;
+    gap: 22px;
+}
+.top--left{
+    display: flex;
+    gap: 5px;
+}
+.top--left h1{
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 800;
+}
+.top--right{
+    display: flex;
+    gap: 30px;
+    margin-right: -275px;
+    font-size: 25px;
+    align-items: center;
+}
+.top--right a{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+}
+.top--right button{
+    margin-left: 21px;
+    background: transparent;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 8px;
+    border-radius: 7px 7px 7px 0;
+    border: none;
+    cursor: pointer;
+}
+.top--right button:hover{
+    background: #262626;
+}
+.mid{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.main--nav,
+.min--nav{
+    display: flex;
+    font-size: 20px;
+    gap: 30px;
+    
+}
+.colle{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.mid ul{
+    display: block;
+    align-items: center;
+    margin-left: -30px;
+}
+.mid li{
+    list-style: none;
+    cursor: pointer;
+}
+ul.mini--nav--mid{
+    background: #c7c7c7;
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.ico-nav{
+    color: white;
+    cursor: pointer;
+    font-size: 25px;
+}
+.ico-nav:hover,
+.active{
+    color: #262626;
+    font-size: 35px;
+    font-weight: 600;
+}
+.bottom{
+    display: flex;
+    align-items: center;
+}
+
+.cart{
+    margin-right: 100px;
+}
+
+

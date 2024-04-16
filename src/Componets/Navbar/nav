@@ -1,0 +1,21 @@
+<ul>
+                <li>All Categories</li>
+                <li>Featured selections</li>
+                <li>Trade Assurance</li>
+                <li>Kikili.com Membership</li>
+            </ul>
+            <ul>
+                <li>Buyer central</li>
+                <li>Help Center</li>
+                <li>Get the App</li>
+                <li>Become a Supplier</li>
+            </ul>
+
+            <div className="mini--nav--mid">
+                <ul className="mini--nav--mid">
+                    <li>Categories</li>
+                    <li>Featured</li>
+                    <li>Trade</li>
+                    <li>Membership</li>
+                </ul>
+            </div>
